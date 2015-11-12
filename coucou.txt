@@ -1,8 +1,0 @@
-ca va?
-<<<<<<< HEAD
-Oui très bien !
-=======
-
-trop de petits lapins.
-Des petits lapins partout.
->>>>>>> origin/master
